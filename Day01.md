@@ -28,14 +28,16 @@
 
 #### 데이터 분석 기초
 데이터 분석을 위한 라이브러리(모듈) 학습부터 시작
+- Folium : 지도 시각화 라이브러리 
 - Pandas : 데이터 처리 라이브러리
+- openpyxl : 엑셀 데이터 로드, 저장 라이브러리
 - Numpy : 수치해석, 계산용 라이브러리
-- openpyxl : 엑셀,CSV,JSON 문서 데이터 로드,저장 라이브러리
-- Selenium : 웹 크롤링 자동화 라이브러리
-- BeautifulSoup : 웹 데이터를 정제 라이브러리
 - Matplot.lib : 차트 표현 라이브러리
 - Seaborn : 시각화 라이브러리
-- Folium : 지도 시각화 라이브러리 
+
+- Selenium : 웹 크롤링 자동화 라이브러리
+- BeautifulSoup : 웹 데이터를 정제 라이브러리
+
 - TensorFlow : 머신러닝 라이브러리
 - PyTorch : 머신러닝, 딥러닝 라이브러리
 - ...
@@ -54,7 +56,7 @@
 
 
 ##### VS Code 문제확인
-1. Jupyter Notebook 실행 속도 느려지는 문제
+1. Jupyter Notebook 실행 속도 느려지는 문제 - Pylance 충돌
     - Ctrl + ,(설정) > Jupyter > Logging: Level -> off or Verbose로 변경(debug 기본값)
 2. Intellisense로 느려짐
     - Ctrl + ,(설정) > TypeScript, Editor > Suggest 모두 해제
