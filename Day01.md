@@ -32,7 +32,7 @@
 - Pandas : 데이터 처리 라이브러리
 - openpyxl : 엑셀 데이터 로드, 저장 라이브러리
 - Numpy : 수치해석, 계산용 라이브러리
-- Matplot.lib : 차트 표현 라이브러리
+- Matplotlib : 차트 표현 라이브러리
 - Seaborn : 시각화 라이브러리
 
 - Selenium : 웹 크롤링 자동화 라이브러리
