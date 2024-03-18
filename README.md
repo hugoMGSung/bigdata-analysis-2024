@@ -42,5 +42,10 @@
         - 스타벅스 입지 선정 분석(계속)
         
 - 빅데이터 복습
- 
+
+## [7일차](https://github.com/hugoMGSung/bigdata-analysis-2024/blob/main/Day07.md)
+- 빅데이터 실습
+    - 스타벅스 입지 선정 분석
+    - 무선청소기 종류 분석
+
         
