@@ -69,3 +69,8 @@
     - 회귀분석
     - 환경에 따른 주택가격 예측
     - 로지스틱회귀 분석
+
+## [12일차](https://github.com/hugoMGSung/bigdata-analysis-2024/blob/main/Day11.md)
+- 머신러닝 실습
+    - 로지스틱회귀 분석
+    - 결정트리 분석
